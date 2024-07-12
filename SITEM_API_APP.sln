@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SITEM_API_APP", "SITEM_API_APP.csproj", "{FD33F450-673C-4414-9997-DD3153CF14EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD33F450-673C-4414-9997-DD3153CF14EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD33F450-673C-4414-9997-DD3153CF14EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD33F450-673C-4414-9997-DD3153CF14EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD33F450-673C-4414-9997-DD3153CF14EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7F4274C-CB17-4B1D-BF0A-9939AED2EDEB}
+	EndGlobalSection
+EndGlobal

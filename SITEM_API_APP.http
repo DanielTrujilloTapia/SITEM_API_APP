@@ -1,0 +1,6 @@
+@SITEM_API_APP_HostAddress = http://localhost:5258
+
+GET {{SITEM_API_APP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
