@@ -37,6 +37,8 @@ namespace SITEM_API_APP
             builder.Services.AddScoped<IMonitoreoTareaServicioRepository, Monitoreo_Tarea_ServicioRepository>();
             builder.Services.AddScoped<IMonitoreo_Tarea_FallaRepository, Monitoreo_Tarea_FallaRepository>();
 
+            builder.Services.AddScoped<ICatImgTareasRepository, Cat_Img_TareaRepository>();
+
             builder.Services.AddCors(options =>
             {
                 options.AddPolicy("NuevaPolitica", builder =>
